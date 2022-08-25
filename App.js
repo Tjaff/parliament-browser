@@ -13,7 +13,7 @@ export default function App() {
         <Stack.Screen
           name="Overview"
           component={Overview}
-          options={{ title: "Members of the Parliament" }}
+          options={{ title: "Members of the Parliament of Aland" }}
         />
         <Stack.Screen
           name="Details"
